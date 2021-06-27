@@ -6,8 +6,11 @@ A univariate time series data contains only one single time-dependent variable w
 
 VAR model is a stochastic process that represents a group of time-dependent variables as a linear function of their own past values and the past values of all the other variables in the group.
 For instance, we can consider a bivariate time series analysis that describes a relationship between hourly temperature and wind speed as a function of past values [2]:
-temp(t) = a1 + w11* temp(t-1) + w12* wind(t-1) + e1(t-1)
-wind(t) = a2 + w21* temp(t-1) + w22*wind(t-1) +e2(t-1)
+
+    temp(t) = a1 + w11* temp(t-1) + w12* wind(t-1) + e1(t-1)
+
+    wind(t) = a2 + w21* temp(t-1) + w22*wind(t-1) +e2(t-1)
+    
 where a1 and a2 are constants; w11, w12, w21, and w22 are the coefficients; e1 and e2 are the error terms.
 
 # Dataset
