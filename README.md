@@ -22,10 +22,11 @@ where a1 and a2 are constants; w11, w12, w21, and w22 are the coefficients; e1 a
 Jupyter Notebook file `real-world-VAR.ipynb` show step by step illustrations on VAR based analysis.
 
 # Python Based VAR Model
-    1. [Tests functions on ordinary least squares regressions (OLS)](https://github.com/xxl4tomxu98/tests-VAR.py)
-        Auto-Correlation of Residuals for Persistence of the Model (ACF and PACF)
-        Homoscedasticity of Residuals (Arch)
-        Normality of Residual Distributions (Normality)
-        Stationarity of Residuals (ADF)
-    
-    2. [Accumulative Python File Constructing VAR Model and Call Tests Functions](https://github.com/xxl4tomxu98/real-world-VAR.py)
+
+1. [Tests functions on ordinary least squares regressions (OLS)](https://github.com/xxl4tomxu98/tests-VAR.py)
+    Auto-Correlation of Residuals for Persistence of the Model (ACF and PACF)
+    Homoscedasticity of Residuals (Arch)
+    Normality of Residual Distributions (Normality)
+    Stationarity of Residuals (ADF)
+
+2. [Accumulative Python File Constructing VAR Model and Call Tests Functions](https://github.com/xxl4tomxu98/real-world-VAR.py)
