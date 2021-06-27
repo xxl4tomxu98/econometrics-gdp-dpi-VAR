@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/tomxu/miniforge3/envs/ml/bin/python"
+    "python.pythonPath": "/Users/tomxu/miniforge3/envs/ml/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
