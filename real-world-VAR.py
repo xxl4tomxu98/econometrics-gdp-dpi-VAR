@@ -1,5 +1,5 @@
-from test-VAR import *
-from statsmodels.tsa.api import VAR, DynamicVAR
+from test_VAR import *
+from statsmodels.tsa.api import VAR
 import statsmodels.api as sm
 from statsmodels.tsa.base.datetools import dates_from_str
 from statsmodels.tsa.vector_ar import plotting
