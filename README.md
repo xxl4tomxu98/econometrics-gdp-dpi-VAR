@@ -21,7 +21,7 @@ where a1 and a2 are constants; w11, w12, w21, and w22 are the coefficients; e1 a
 
 ## EDA and General Analysis
 
-Jupyter Notebook file `real-world-VAR.ipynb` show step by step illustrations on VAR based analysis.
+Jupyter Notebook file `real-world-VAR.ipynb` show step by step illustrations on VAR based analysis and Bayesain Structured Time Series models.
 
 ## Python Based VAR Model for Potential Deployment
 
